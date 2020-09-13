@@ -1,0 +1,8 @@
+﻿  TripleX.cpp
+I:\UNREAL ENGINE\TripleX\TripleX\TripleX.cpp(10,10): warning C4129: ' ': unrecognized character escape sequence
+I:\UNREAL ENGINE\TripleX\TripleX\TripleX.cpp(11,10): warning C4129: ' ': unrecognized character escape sequence
+I:\UNREAL ENGINE\TripleX\TripleX\TripleX.cpp(13,10): warning C4129: ' ': unrecognized character escape sequence
+I:\UNREAL ENGINE\TripleX\TripleX\TripleX.cpp(14,10): warning C4129: '_': unrecognized character escape sequence
+I:\UNREAL ENGINE\TripleX\TripleX\TripleX.cpp(14,10): warning C4129: ' ': unrecognized character escape sequence
+I:\UNREAL ENGINE\TripleX\TripleX\TripleX.cpp(65,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TripleX.vcxproj -> I:\UNREAL ENGINE\TripleX\Debug\TripleX.exe
